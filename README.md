@@ -1,6 +1,8 @@
 # Flutter_Recipe_App
 
-A new Flutter application.
+Daily Meal Planner
+
+Choose how many calories you want and the app generate the 3 meals for you.
 
 ## Getting Started
 
